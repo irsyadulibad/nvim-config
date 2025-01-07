@@ -7,6 +7,7 @@ My personal preference configuration files using the [LazyVim](https://lazyvim.o
 - Copilot AI Plugin
 - PHP Plugin
 - Tailwind Plugin
+- Telescope Plugin
 - Typescript Plugin
 
 ## Installation
