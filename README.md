@@ -1,7 +1,7 @@
 # Personal Neovim Config
 
 ## Introduction
-My personal preference configuration files using the LazyVim starter for Neovim
+My personal preference configuration files using the [LazyVim](https://lazyvim.org) starter for Neovim
 
 ## Includes
 - Copilot AI Plugin
