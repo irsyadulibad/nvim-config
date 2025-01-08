@@ -9,6 +9,7 @@ My personal preference configuration files using the [LazyVim](https://lazyvim.o
 - Tailwind Plugin
 - Telescope Plugin
 - Typescript Plugin
+- Screenkey Plugin
 
 ## Installation
 To install this configuration into your Neovim setup, simply type the following command:
